@@ -1,0 +1,21 @@
+{
+    "name": "react-native-brownfield-swiftui",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:okwasniewski/react-native-brownfield-swiftui.git",
+    "author": "Oskar Kwasniewski <oskarkwasniewski@icloud.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "react-native start"
+    },
+    "dependencies": {
+        "react": "18.2.0",
+        "react-native": "0.76.0-rc.2"
+    },
+    "devDependencies": {
+        "@react-native-community/cli": "15.0.0-alpha.2",
+	"@react-native/metro-config": "0.76.0-rc.2",
+        "@react-native-community/cli-platform-android": "15.0.0-alpha.2",
+        "@react-native-community/cli-platform-ios": "15.0.0-alpha.2"
+    }
+}
